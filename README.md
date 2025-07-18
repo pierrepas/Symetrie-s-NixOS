@@ -1,0 +1,1 @@
+# Symetrie-s-NixOS
