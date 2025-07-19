@@ -1,6 +1,6 @@
 { config, pkgs, ... }:
 {
-  imports =
+  imports =[
       ./hardware-configuration.nix
 #      (import "${<home-manager>}/nixos")
     ];
